@@ -634,7 +634,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 28305453}
         m_TargetAssemblyTypeName: UI, Assembly-CSharp
-        m_MethodName: TaskOnXMLLoadButtonClick
+        m_MethodName: XMLLoadButtonClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1214,7 +1214,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 28305453}
         m_TargetAssemblyTypeName: UI, Assembly-CSharp
-        m_MethodName: TaskOnXMLSaveButtonClick
+        m_MethodName: XMLSaveButtonClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
